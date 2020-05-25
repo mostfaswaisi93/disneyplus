@@ -1,4 +1,4 @@
-# disneyplus - Tailwind CSs
+# disneyplus - Tailwind CSS
 
 ## Project setup
 
