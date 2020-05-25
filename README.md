@@ -1,4 +1,4 @@
-# disneyplus
+# disneyplus - Tailwind CSs
 
 ## Project setup
 
